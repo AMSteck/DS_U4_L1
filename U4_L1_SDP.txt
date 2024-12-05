@@ -1,0 +1,6 @@
+1. so that users can make changes to other items in the stack besides the top item and so users cant change the stack size without adding or taking away from the stack.
+2.when using pop and top to check whether or not an error should be raised
+3. so that the user knows what they did wrong and can fix it
+4. removing an item from the front of the list and moving all the other elements is more complex than deleting the last element which has a better big O notation.
+5. it means testing small parts of your program to make sure stuff doesn't break later. unit testing is important and used inside this assignment because if small parts
+are not tested the class will likely break when used later
